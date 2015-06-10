@@ -8,7 +8,7 @@
  * work with most text, but be warned about UTF-8
  * or non ASCII characters..
  */
-
+//edited by DiCkSoN
 
 #include <stdio.h>
 
